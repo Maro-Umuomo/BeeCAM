@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sdp/CAM2.sdp</file>
+        <file>sdp/CAM1.sdp</file>
+        <file>sdp/metapreview.mp4</file>
+        <file>sdp/t.png</file>
+    </qresource>
+</RCC>
